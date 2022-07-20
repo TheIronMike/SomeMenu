@@ -4891,7 +4891,7 @@ function library:CreateSettingsTab(menu)
     end})
 
     mainSection:AddButton({text = 'Copy Discord', flag = 'copydiscord', callback = function()
-        setclipboard('discord.gg/jhS2vYpZqH')
+        setclipboard('discord.gg/gkeX9bMZPh')
     end})
 
     mainSection:AddButton({text = 'Copy Game Invite', callback = function()
